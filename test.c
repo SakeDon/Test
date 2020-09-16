@@ -9,6 +9,7 @@ int main(int argc, char** argv){
 	printf("%d\n",rand()%100);
 	printf("%d\n",rand()%100);
 	//20201016 1058
+	//20201016 1121
 
 	return 0;
 }
